@@ -1,0 +1,81 @@
+body {
+    background-color: rgb(39, 54, 45);
+}
+
+h1 {
+    margin-left: 480px;
+    font-size: 64px;
+    font-weight: bold;
+    background: linear-gradient(270deg,#3f5efb,#fc466b);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.pantalla {
+    margin-top: 3px;
+}
+
+.teclado{
+    margin-bottom: -35px;
+    margin-top: 5px;
+}
+
+
+.alinear_C {
+    float: left;
+    margin-left: 550px;
+}
+
+.calculadora {
+    border-style: solid;
+    border-width: 10px 10px;
+    border-image: linear-gradient(270deg,#3f5efb,#fc466b) 1;
+    border-radius: 5px;
+    padding: 2px;
+    
+
+}
+
+.boton_mas{
+    height: 118px;
+    width: 33px;
+    float: left;
+    margin-bottom: 10px;
+    padding-left: 9.5px;
+}
+
+.boton_CE {
+    width: 36px;
+    height: 30px;
+    float: right;
+    margin-right: 2px;
+    text-align: center;
+    line-height: 5px;
+    padding-left: 9px;
+}
+
+.doble_cero {
+    margin-left: 1.5px;
+    width: 35px;
+    text-align: left;
+    line-height: 23px;
+    padding-left: 8px;
+}
+
+.fila_3 {
+margin-top: -170px;
+}
+
+.margen_B90{
+    margin-bottom: 90px;
+}
+
+.fila_4 {
+    margin-top: -142px;
+}
+
+.margen_L5 {
+    float: left;
+    margin-left: 1.5px;
+}
+
